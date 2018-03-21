@@ -1,0 +1,5 @@
+fork练习
+	1. 从别人的GitHub上fork
+	2. git clone 到本地
+	3. 修改相应内容，git commit
+	4. git push 到自己的fork处
